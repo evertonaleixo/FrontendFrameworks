@@ -3,10 +3,10 @@
 In this repository was developed some samples with react. React is a powerfull javascript lib, despite it is not a framework.
 
 ## Samples
-1-sample-phonebookk
+(./1-sample-phonebook)[1-sample-phonebook]
 
 ## Pré-requisites
-Node >= 6
+Node >= 4
 npm  >= 3
 
 Obs. nvm could help you to chance Node version. 
