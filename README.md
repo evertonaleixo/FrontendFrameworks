@@ -6,7 +6,10 @@ These technologies permit you make frontend uncoupled of backend, using backend 
 
 The technologies covered in this repository will be:
 
-(./react)[React]
+[React](https://github.com/evertonaleixo/FrontendFrameworks/tree/master/react)
+
 Aurelia
-(./ember)[Ember]
+
+Ember
+
 Angular v4
