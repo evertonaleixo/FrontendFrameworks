@@ -4,6 +4,7 @@ In this repository was developed some samples with react. React is a powerfull j
 
 ## Samples
 (./1-sample-phonebook)[1-sample-phonebook]
+(./2-sample-pizzeria)[2-sample-pizzeria]
 
 ## Pré-requisites
 Node >= 4
